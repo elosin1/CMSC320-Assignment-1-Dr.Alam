@@ -1,0 +1,4 @@
+Q1: Why might we conssider using git?
+
+Answer: We might consider using git because it allows us to easily go through the history of our code and share it with other users across multiple devices
+
