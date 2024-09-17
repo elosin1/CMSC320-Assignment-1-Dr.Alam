@@ -11,3 +11,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: When we rebase, our commits in a different branch are put on top of the most recent commit in the branch we are rebasing on. Merging on the other hand creates a merge commit and does not move the feature branch but instead connects it to the most recent commit of the main branch with the merge commit
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to become better at visualizing and organizing data to make more in-depth conclusions about that data. This should help me a lot in the future as developers often deal with lots of messy data.
+
