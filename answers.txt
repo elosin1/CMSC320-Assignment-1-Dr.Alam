@@ -7,4 +7,7 @@ Q2: What field could data science be applied to? Give and example and how it mig
 
 Answer: Data science could be used in finance. In quantitative finance it can be used to help people better understand and analyze trends in their financial data in order to build better models and algorithms to make predictions in the stock market and finance world
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: When we rebase, our commits in a different branch are put on top of the most recent commit in the branch we are rebasing on. Merging on the other hand creates a merge commit and does not move the feature branch but instead connects it to the most recent commit of the main branch with the merge commit
 
