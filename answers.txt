@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and example and how it might help
+
+Answer: Data science could be used in finance. In quantitative finance it can be used to help people better understand and analyze trends in their financial data in order to build better models and algorithms to make predictions in the stock market and finance world
+
